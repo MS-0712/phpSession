@@ -1,5 +1,5 @@
 <?php
-header('refresh: 1');
+// header('refresh: 1');
 // interface MyInterface{
 //     public static function hello();
 // }
